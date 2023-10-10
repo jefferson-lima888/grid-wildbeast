@@ -32,7 +32,7 @@ Inicie o servidor
 
 ## Screenshots
 
-![App Screenshot](![grid-wildbeast](https://github.com/jefferson-lima888/grid-wildbeast/assets/67652679/23f80156-38a2-47b5-9ef6-8ee35a0b3e68))
+![grid-wildbeast](https://github.com/jefferson-lima888/grid-wildbeast/assets/67652679/23f80156-38a2-47b5-9ef6-8ee35a0b3e68)
 
 
 ## Stack utilizada
